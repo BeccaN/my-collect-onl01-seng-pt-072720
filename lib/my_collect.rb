@@ -5,7 +5,7 @@
 
 
 
-require 'pry'
+
 
 def hello(array)
   i = 0
